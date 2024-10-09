@@ -23,7 +23,7 @@ Unlock the secrets to mastering C# with Pathtron – the ultimate app for learni
 - 🎓 Beginner to expert level content
 - 🖥️ Interactive learning experience
 
-[Link to Project](#) | [Download App](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.Pathtron)
 
 ## 🧩 Skewir: The Block Breaker
 
@@ -35,7 +35,7 @@ Dive into Skewir, the ultimate block-breaking puzzle game! Break blocks with pre
 - 🆕 Weekly updates with new levels
 - 🏆 Skill progression system
 
-[Link to Project](#) | [Play Now](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.Skewir)
 
 ## 🎯 Needles
 
@@ -47,7 +47,7 @@ The ultimate Needles challenge is here! Throw the Needles into the core to fill 
 - 🔓 Multiple levels to unlock
 - 🕹️ Smooth and responsive controls
 
-[Link to Project](#) | [Download Game](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.Needles)
 
 ## 🧱 Legorx: Ultimate Brick Breaker
 
@@ -60,7 +60,7 @@ Welcome to Legorx, the ultimate free brick breaker game! Immerse yourself in the
 - 🛠️ Build and share your own levels
 - 🔄 Innovative mechanics and ball skills
 
-[Link to Project](#) | [Play for Free](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.Legorx)
 
 ## 📖 Guidance: Quran & Hadith
 
@@ -72,7 +72,7 @@ Discover Islam with Guidance - your comprehensive, ad-free companion for Quranic
 - 🧠 Beginner's guides to Islam, Wudu, and Salah
 - 🧑‍🎓 Quran memorization tests
 
-[Link to Project](#) | [Download App](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.Guidance)
 
 ## 🏃‍♂️ Evadee: Addictive OneTouch Fun
 
@@ -84,7 +84,7 @@ Experience the ultimate one-touch arcade action with Evadee! Dive into a vibrant
 - ⚡ Exciting power-ups
 - 🎨 Vibrant 2D flat design
 
-[Link to Project](#) | [Play Now](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.Evadee)
 
 ## 🏢 Line It Up: Tower Block Puzzle
 
@@ -96,7 +96,7 @@ Challenge your mind and relax with this addictive block-stacking puzzle. Build t
 - 🧩 Numerous challenging levels
 - ⏱️ Perfect for quick plays or extended sessions
 
-[Link to Project](#) | [Download Game](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.LineItUp)
 
 ## 💡 Episteme: Creative Thinking
 
@@ -109,7 +109,7 @@ Unleash your creativity and break through mental blocks with Episteme, the ultim
 - 🔢 Random Number Generator
 - 🏷️ Name Generator
 
-[Link to Project](#) | [Try Episteme](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.Episteme)
 
 ## 🔷 Shape Form: The Shape Matching
 
@@ -121,7 +121,7 @@ Get ready to experience an addictive, fast-paced rogue-lite adventure in Shape F
 - 🔄 Endless mode for continuous challenges
 - ⚡ Fast-paced, addictive gameplay
 
-[Link to Project](#) | [Play Now](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.Spin.shapes)
 
 ## 👥 Clicky Click: Fun 2 Player
 
@@ -134,7 +134,7 @@ Challenge your friends or take on the AI in Clicky Click! Enjoy fast-paced fun w
 - 🎨 Stunning visuals
 - ⏱️ Perfect for quick matches
 
-[Link to Project](#) | [Download Game](#)
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.spiningrope.ClickClick)
 
 ---
 
